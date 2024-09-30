@@ -1,0 +1,15 @@
+#my-slideshow-plugin-images-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#my-slideshow-plugin-images-list li {
+    margin-bottom: 10px;
+}
+
+#my-slideshow-plugin-images-list img {
+    max-width: 150px;
+    display: block;
+    margin-bottom: 5px;
+}
